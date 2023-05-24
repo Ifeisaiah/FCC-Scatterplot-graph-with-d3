@@ -5,11 +5,10 @@
       flex-direction: column;
       justify-content: center;
       align-items: center;
-      font-family: Arial, Helvetica, sans-serif;
+      font-family: 'Arial', 'Helvetica', 'sans-serif';
         }
   svg {
       background-color: #272640;
-      padding: 10px;
       border-radius: 10px;
       position: relative;
   }
