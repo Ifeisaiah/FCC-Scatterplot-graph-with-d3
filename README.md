@@ -3,7 +3,7 @@ This is my solution to freeCodeCamp's scatterplot graph test from the Data Visua
 
 First, we are told to create our scatter plot similar to this https://scatterplot-graph.freecodecamp.rocks/
 
-And second, our bar chart must have 15 complusory features which although are on freeCodeCamp's official site, will be referenced below.
+And second, our scatter plot must have 15 complusory features which although are on freeCodeCamp's official site, will be referenced below.
 
 Fulfill the below user stories and get all of the tests to pass. Use whichever libraries or APIs you need. Give it your own personal style.
 
