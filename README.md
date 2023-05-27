@@ -1,5 +1,5 @@
 # FCC-Scatterplot-graph-with-d3
-This is my solution to freeCodeCamp's scatterplot graph test from the Data Visualization course. I hope you find this helpful as I myself was thoroughly frustrated before I figured it out by getting help online.
+This is my solution to freeCodeCamp's scatterplot graph test from the Data Visualization course https://codepen.io/Luwa_I/pen/bGmZGqp. I hope you find this helpful as I myself was thoroughly frustrated before I figured it out by getting help online.
 
 First, we are told to create our scatter plot similar to this https://scatterplot-graph.freecodecamp.rocks/
 
